@@ -1,4 +1,4 @@
-=== Image Optimizer – Optimize Images and Convert to WebP or AVIF ===
+=== Image Optimizer - Optimize Images and Convert to WebP or AVIF ===
 Contributors: elemntor
 Tags: image optimization, image compression, convert webp, convert avif, performance,
 Requires at least: 6.2

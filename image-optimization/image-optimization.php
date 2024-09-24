@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Image Optimizer – Compress, Resize and Optimize Images
+ * Plugin Name: Image Optimizer - Compress, Resize and Optimize Images
  * Description: Automatically resize, optimize, and convert images to WebP and AVIF. Compress images in bulk or on upload to boost your WordPress site performance.
  * Plugin URI: https://go.elementor.com/wp-repo-description-tab-io-product-page/
  * Version: 1.5.3
